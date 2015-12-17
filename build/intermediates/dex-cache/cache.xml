@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/onzzz/GPS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/onzzz/GPS/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-15917a0c77e9e156ef79de7c80c8f7312de213af.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/onzzz/GPS/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-9a77dcb564432ca5fb95411e65927b1314a92ec5.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/GPS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/onzzz/GPS/app/build/intermediates/pre-dexed/debug/classes-a5692b2f4dc97a4734ce1c94d52b2ebf1c5e84e8.jar" />
+    </item>
+    <item
+        jar="/Users/onzzz/GPS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/onzzz/GPS/app/build/intermediates/pre-dexed/debug/classes-ad4dd4a24f429447566d45cab1dfd8e541947912.jar" />
+    </item>
+
+</items>
